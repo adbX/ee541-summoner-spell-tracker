@@ -1,5 +1,6 @@
 # Instructions to run the project
 
+0. `git clone https://github.com/adbX/ee541-summoner-spell-tracker.git`
 1. Setup environment and install dependencies. Make sure that you have [poetry](https://python-poetry.org/docs/) and [pyenv](https://github.com/pyenv/pyenv).
     ```bash
     $ pyenv install 3.9.16
